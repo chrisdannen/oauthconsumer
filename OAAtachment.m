@@ -6,7 +6,7 @@
 //  Copyright 2011 Tumblr. All rights reserved.
 //
 
-#import "OAAttachment.h"
+#import "OAAtachment.h"
 
 @implementation OAAttachment
 

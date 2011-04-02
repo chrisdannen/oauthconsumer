@@ -1,6 +1,8 @@
 
 // From http://www.mirrors.wiretapped.net/security/cryptography/hashes/sha1/sha1.c
 
+#import "sys/types.h"
+
 typedef struct {
     u_int32_t state[5];
     u_int32_t count[2];
